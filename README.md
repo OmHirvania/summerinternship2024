@@ -94,19 +94,19 @@ HTML, CSS, JavaScript, React
 
 ### 📅 Week 6
 
-**June 10, 2024**:
+**June 17, 2024**:
 - ✅ Today, I began my journey with React by understanding its core principles and how it fits into web development. I learned about the component-based architecture, JSX syntax, and how React helps build dynamic user interfaces. I set up my development environment and created my first simple React component. This foundational knowledge is crucial for further learning.
   
-**June 11, 2024**:
+**June 18, 2024**:
 - ✅ I delved deeper into React components, exploring how to create functional and class components. I learned about props and how they facilitate data flow between components. I also practiced composing components to build more complex UIs. This understanding of component hierarchy and reusability is key to effective React development.
 
-**June 12, 2024**:
+**June 19, 2024**:
 - ✅ Today's focus was on state management within React components. I explored the useState hook for managing state in functional components and learned about the setState method in class components. I practiced updating and rendering UI based on state changes, which is essential for creating interactive applications.
 
-**June 13, 2024**:
+**June 20, 2024**:
 - ✅ I explored the concept of lifecycle methods in React class components and their equivalent hooks (useEffect) in functional components. I learned how to manage side effects, such as data fetching and subscriptions, within components. This knowledge helps in understanding how to handle component behavior during different stages of its lifecycle.
 
-**June 14, 2024**:
+**June 21, 2024**:
 - ✅ On the final day of this week, I focused on advanced React concepts such as context API for global state management, React Router for navigation, and higher-order components. I also started exploring some best practices for structuring React applications and optimizing performance. This advanced understanding will enable me to build more scalable and efficient React applications.
   
 - ⭐ That’s how my intensive study of HTML, CSS, JavaScript, and React went. I tackled the basics of web page structure with HTML, explored advanced styling and layout techniques with CSS, and delved into core programming concepts and OOP principles with JavaScript. Moving on to React, I mastered complex component patterns, state management, and routing techniques. This learning journey was both challenging and rewarding, providing a solid foundation for future projects. I faced various obstacles along the way but emerged with new skills and insights. I’m excited to apply these lessons to upcoming tasks and continue my growth as a developer.
